@@ -17,7 +17,7 @@ Enter same passphrase again:
 Your identification has been saved in /c/Users/even/.ssh/id_rsa
 Your public key has been saved in /c/Users/even/.ssh/id_rsa.pub
 The key fingerprint is:
-SHA256:KngFw9jF4bmKsM01Zv6xKizWMHHZrvO0qO1KfGJlDlU yushan2025@gmail.com
+SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@gmail.com
 The key's randomart image is:
 +---[RSA 3072]----+
 |     Eo.         |
